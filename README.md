@@ -1,2 +1,3 @@
-# cherry-project
-cherry project description
+{
+    "liveServer.settings.port": 5501
+}
